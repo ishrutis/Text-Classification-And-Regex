@@ -1,4 +1,5 @@
 # Text-Classification-And-Regex
+This repository consists of projects of extracting details from different documents in different ways. Details about this repository is as follows:-
 
 # Number of projects
 04
